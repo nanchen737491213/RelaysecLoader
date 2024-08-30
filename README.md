@@ -8,4 +8,7 @@ RelaysecLoader
 
 需要注意的是过火绒的内存查杀需要配合CobaltStrike的Profile文件来使用。
 
-``dwa``
+关于Profile文件大家自己发挥...... 这里就不提供了。
+
+解压密码: 关注Relay学安全 回复免杀获取！！！
+
